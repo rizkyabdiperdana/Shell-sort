@@ -14,3 +14,6 @@ for(i = 0; i < n; i++)
 {
        cout<<"Nilai ke-"<<1+i<<"  : ";cin>>val[i];
    }
+
+   
+    for(int a = n/2; a > 0;a=a/2)
