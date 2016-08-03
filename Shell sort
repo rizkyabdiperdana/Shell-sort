@@ -23,3 +23,5 @@ for(i = 0; i < n; i++)
           for (int c = b-a; c >= 0; c-=a)
  {
              if(val[c+a] < val[c])
+{
+                t=val[c+a];
