@@ -5,3 +5,6 @@ int main()
 {
   int val[100];
    int i, n, t;
+
+   
+   cout<<" \n";
