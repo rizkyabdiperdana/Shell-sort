@@ -26,3 +26,8 @@ for(i = 0; i < n; i++)
 {
                 t=val[c+a];
                 val[c+a]=val[c];
+                val[c]=t;
+            }
+         }
+      }
+   }
