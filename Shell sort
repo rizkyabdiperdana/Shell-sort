@@ -9,3 +9,4 @@ int main()
    
    cout<<" \n";
  cout<<" Masukkan Jumlah Data yg ingin di urutkan : ";cin>>n;
+cout<<" \n";
