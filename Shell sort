@@ -10,7 +10,7 @@ int main()
    cout<<" \n";
   cout<<" Masukkan Jumlah Data yg ingin di urutkan : ";cin>>n;
   cout<<" \n";
-for(i = 0; i < n; i++)
+  for(i = 0; i < n; i++)
 {
        cout<<"Nilai ke-"<<1+i<<"  : ";cin>>val[i];
    }
