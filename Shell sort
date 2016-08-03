@@ -33,3 +33,5 @@ for(i = 0; i < n; i++)
    }
 cout<<" \n";
 cout<<" DATA YG TELAH DIURUTKAN DENGAN MENGGUNAKAN SHELL SORT :  \n";
+ 
+   for(i = 0; i < n; i++)
